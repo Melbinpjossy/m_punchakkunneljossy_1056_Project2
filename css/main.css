@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 960px;
+	margin: auto;
+
+}
+
+h1
+{
+	font-family: 'Major Mono Display', serif;
+	font-size: 37px;
+	margin-left: 20px;
+	height: 20px;
+}
+
+#heading
+{
+	margin-bottom: 40px;
+}
+
+h2
+{
+	font-family: 'Major Mono Display', serif;
+	font-size: 25px;
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#image1
+{
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.para
+{
+	font-family: 'Cookie', cursive;
+	font-size: 30px;
+	margin-left: 10px;
+}
+
+#flex1
+{
+	font-family: 'Cookie', cursive;
+	font-size: 30px;
+	display: inline-flex;
+	flex-direction: row;
+
+}
+
+.image
+{
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-bottom: 35px;
+}
+
+
+
